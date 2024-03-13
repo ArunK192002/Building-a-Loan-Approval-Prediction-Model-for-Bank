@@ -3,6 +3,7 @@
 Distribution of the loans is the core business part of almost every bank. The major portion of the bank’s assets directly came from the profit earned from the loans distributed by the banks. Today many banks and financial companies approve loans after a rigorous process of verification and validation but still there is no surety whether the chosen applicant is the deserving right applicant out of all applicants. This is project one of the bank wanted to build a model to predict whether that particular applicant’s loan can be approved or rejected.
 
 VARIABLES	VARIABLE DESCRIPTION
+
   APP_ID              -  Application id’s
   CIBIL_SCORE_VALUE 	-  Cibil score is the three digits  (0=bad,1=0k,2=good)
   NEW_CUST	          -  New To Credit score will help banks rate new borrowers (Y/N)
