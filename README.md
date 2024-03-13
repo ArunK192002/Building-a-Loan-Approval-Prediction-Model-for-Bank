@@ -5,6 +5,7 @@ Distribution of the loans is the core business part of almost every bank. The ma
 VARIABLES	VARIABLE DESCRIPTION
 
   APP_ID              -  Application id’s
+  
   CIBIL_SCORE_VALUE 	-  Cibil score is the three digits  (0=bad,1=0k,2=good)
   NEW_CUST	          -  New To Credit score will help banks rate new borrowers (Y/N)
   CUS_ATGCODE         -  Customer category code i.e. existing or new customer
